@@ -2,7 +2,20 @@
 - 🔭 I’m open to part-time job/projects proposals
 - 🌱 I’m currently working/learning on django
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jayprakash02&count_private=true&show_icons=true&hide=contribs,,issues)
+<a href="mailto:unijay12@gmail.com" style="text-decoration:none" target="_blank">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/jay-prakash-002/" style="text-decoration:none" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<a href="https://api.whatsapp.com/send?phone=917999776136" style="text-decoration:none" target="_blank">
+  <img height="30" src="https://img.shields.io/badge/-Whatsapp-128C7E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jayprakash02&show_icons=true)
 <!--
 **jayprakash02/jayprakash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
